@@ -1,1 +1,1 @@
-# mdia-1620-Basic-Systems-Opetations-Programming
+# mdia-1620-Basic-Systems-Operations-Programming
