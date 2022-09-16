@@ -20,12 +20,38 @@ var name = "Josh"
 var proceed = true;
 var i = 0;
 
-while(proceed){
+while (proceed) {
     i++
     proceed = false;
 }
 
 console.log(i);
+
+// objects (slash star star for comments)
+
+var grannySmith = {
+    color: "green",
+    originplace: "austrailia",
+    origindate: "1868"
+};
+
+console.log(grannySmith.color)
+
+// functions
+
+var x = myFunction(1,3);
+
+function myFunction(numOne, numTwo) {
+    return numOne * numTwo;
+};
+
+console.log(x);
+
+
+
+
+
+
 
 
 
